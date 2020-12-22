@@ -24,7 +24,7 @@ Prerequisites
 To install a color variation, you must first install the Simplicity style.
 
 ## Download
-https://github.com/MrGabatt/SimplicityForPhpbb32/archive/master.zip
+https://github.com/MrGabatt/SimplicityForPhpbb33/archive/master.zip
 
 
 ## License
